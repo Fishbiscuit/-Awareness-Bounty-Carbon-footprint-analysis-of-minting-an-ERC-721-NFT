@@ -16,7 +16,9 @@ Therefore, NFTs are not environmentally friendly.
 
 _However, we CAN use NFTs in an eco-friendly way_
 
-There are alternative blockchains to Ethereum that can be used to make and transfer NFTs that do not require vast amounts of electricity. This is due to the fact that they do not rely on Proof-of-Work to function, but rather use different algorithms such as [Proof-of-Stake](https://www.coindesk.com/proof-of-stake) which has no carbon footprint.
+The use of this innovative new technology and the observation of our values are not mutually exclusive.
+
+There exist alternative blockchains to Ethereum that can be used to make and transfer NFTs that do not require vast amounts of electricity. This is due to the fact that they do not rely on Proof-of-Work to function, but rather use different algorithms such as [Proof-of-Stake](https://www.coindesk.com/proof-of-stake) which has no carbon footprint.
 NFT marketplaces with the highest volume of traffic are currently ones built on Ethereum, such as [OpenSea](https://opensea.io/) and [Rarible](https://rarible.com/).
 
 There do exist greener alternatives however that operate on blockchains that do not use Proof-of-Work. Here is a useful list of NFT marketplaces that are currently operational, are public, and do not cause environmental harm:
