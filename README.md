@@ -1,7 +1,7 @@
 # -Awareness-Bounty-Carbon-footprint-analysis-of-minting-an-ERC-721-NFT
 
 With the record sale of Beeple’s [$69 million NFT](https://www.theverge.com/2021/3/11/22325054/beeple-christies-nft-sale-cost-everydays-69-million), the acronym has officially entered the world’s lexicon.
-What an NFT actually is and the ecological consequences of creating them are considerations that have yet to enter the limelight. 
+What an NFT actually is though, and the ecological consequences of creating them are considerations that have yet to enter the limelight. 
 
 An NFT is a ‘Non-Fungible Token’, or in other words: a unique piece of digital art. For the first time, digital art can be reliably verified. An NFT cannot be copy-pasted or screen-shotted. This has opened the door for digital artists to truly be able to share their art without fear of compromising their ownership or IP.
 
